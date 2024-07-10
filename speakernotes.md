@@ -71,7 +71,7 @@ Logging in
 `fix this`
 `fix this`
 `fix this`
-  - go to `https://github.com/eirianop/ResBaz2022_LaTeX_noHairLoss`
+  - go to `https://github.com/eopResBaz/ResBaz2024_LaTeX`
   - `download zip`
   - OS X - may have to turn it into a zip again
 
